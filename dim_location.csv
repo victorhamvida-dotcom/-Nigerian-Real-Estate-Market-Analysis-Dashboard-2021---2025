@@ -1,0 +1,35 @@
+location_id,city,state,region,active_location
+LOC001,Lagos,Lagos,South West,1
+LOC002,Ikeja,Lagos,South West,1
+LOC003,Lekki,Lagos,South West,1
+LOC004,Victoria Island,Lagos,South West,1
+LOC005,Ikoyi,Lagos,South West,1
+LOC006,Yaba,Lagos,South West,1
+LOC007,Surulere,Lagos,South West,1
+LOC008,Ajah,Lagos,South West,1
+LOC009,Gbagada,Lagos,South West,1
+LOC010,Magodo,Lagos,South West,1
+LOC011,Maitama,FCT,North Central,1
+LOC012,Asokoro,FCT,North Central,1
+LOC013,Wuse,FCT,North Central,1
+LOC014,Gwarinpa,FCT,North Central,1
+LOC015,Jabi,FCT,North Central,1
+LOC016,Kubwa,FCT,North Central,1
+LOC017,Port harcourt,Rivers,South South,1
+LOC018,GRA,Rivers,South South,1
+LOC019,Rumuola,Rivers,South South,1
+LOC020,Ibadan,Oyo,South West,1
+LOC021,Bodija,Oyo,South West,1
+LOC022,Jericho,Oyo,South West,1
+LOC023,Enugu,Enugu,South East,1
+LOC024,Independence Layout,Enugu,South East,1
+LOC025,Kano,Kano,North West,1
+LOC026,Nassarawa,Kano,North West,1
+LOC027,benin city,Edo,South South,1
+LOC028,GRA Benin,Edo,South South,1
+LOC029,Kaduna,Kaduna,North West,1
+LOC030,Barnawa,Kaduna,North West,1
+LOC031,Abeokuta,Ogun,South West,1
+LOC032,Ifo,Ogun,South West,1
+LOC033,Warri,Delta,South South,1
+LOC034,Asaba,Delta,South South,1

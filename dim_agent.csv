@@ -1,0 +1,301 @@
+agent_id,agent_name,gender,age,base_location_id,specialization,years_experience
+AGT0001,Agent Esther Bello,Female,44,LOC022,Residential,11
+AGT0002,Agent Samuel Williams,Female,32,LOC025,Commercial,13
+AGT0003,Agent Samuel Okonkwo,Male,32,LOC014,Luxury,9
+AGT0004,Agent Blessing Nwosu,Female,51,LOC018,Commercial,10
+AGT0005,Agent Amaka Yusuf,Female,34,LOC008,Commercial,14
+AGT0006,Agent Chioma Okafor,Female,54,LOC005,Property Management,1
+AGT0007,Agent Esther Okafor,Female,44,LOC013,Property Management,4
+AGT0008,Agent Aisha Bello,Female,47,LOC005,Residential,13
+AGT0009,Agent Esther Williams,Male,56,LOC034,Commercial,5
+AGT0010,Agent Aisha Okonkwo,Male,50,LOC025,Commercial,5
+AGT0011,Agent Amaka Mohammed,Female,29,LOC001,Luxury,8
+AGT0012,Agent Samuel Eze,Female,26,LOC032,Residential,15
+AGT0013,Agent David Ibrahim,Female,32,LOC013,Residential,5
+AGT0014,Agent Mary Ogunleye,Female,38,LOC027,Commercial,5
+AGT0015,Agent Grace Williams,Male,33,LOC025,Property Management,6
+AGT0016,Agent Victor Adeyemi,Male,54,LOC014,Luxury,1
+AGT0017,Agent Samuel Mohammed,Male,31,LOC033,Property Management,3
+AGT0018,Agent Esther Olawale,Male,56,LOC034,Residential,4
+AGT0019,Agent Michael Abdullahi,Male,43,LOC030,Residential,15
+AGT0020,Agent Victor Yusuf,Male,54,LOC014,Land,15
+AGT0021,Agent John Ibrahim,Female,49,LOC033,Residential,15
+AGT0022,Agent Chioma Williams,Female,37,LOC033,Luxury,12
+AGT0023,Agent Emmanuel Olawale,Female,33,LOC014,Land,8
+AGT0024,Agent Joseph Olawale,Male,33,LOC013,Commercial,5
+AGT0025,Agent Blessing Nwosu,Female,51,LOC032,Land,13
+AGT0026,Agent James Nwosu,Male,55,LOC005,Property Management,6
+AGT0027,Agent Michael Williams,Male,53,LOC020,Commercial,14
+AGT0028,Agent Chioma Abdullahi,Female,35,LOC016,Residential,10
+AGT0029,Agent Amaka Eze,Female,30,LOC022,Land,7
+AGT0030,Agent Chioma Johnson,Female,55,LOC012,Residential,3
+AGT0031,Agent Ada Adeyemi,Male,36,LOC005,Property Management,15
+AGT0032,Agent Joy Bello,Female,30,LOC011,Property Management,13
+AGT0033,Agent Michael Johnson,Male,50,LOC007,Residential,5
+AGT0034,Agent Samuel Ogunleye,Female,56,LOC029,Luxury,4
+AGT0035,Agent Esther Okafor,Male,27,LOC004,Commercial,15
+AGT0036,Agent James Adeyemi,Male,26,LOC005,Land,4
+AGT0037,Agent Chioma Adeyemi,Female,43,LOC002,Luxury,7
+AGT0038,Agent Samuel Johnson,Male,36,LOC009,Land,13
+AGT0039,Agent Grace Mohammed,Male,52,LOC006,Property Management,9
+AGT0040,Agent Grace Yusuf,Male,35,LOC002,Land,5
+AGT0041,Agent James Okafor,Female,54,LOC008,Land,3
+AGT0042,Agent Mary Okonkwo,Female,26,LOC011,Land,6
+AGT0043,Agent Michael Mohammed,Male,57,LOC001,Property Management,7
+AGT0044,Agent Mary Ibrahim,Male,45,LOC003,Residential,7
+AGT0045,Agent Michael Eze,Male,36,LOC021,Residential,4
+AGT0046,Agent Peter Ogunleye,Male,45,LOC010,Commercial,7
+AGT0047,Agent Ada Williams,Male,30,LOC005,Commercial,14
+AGT0048,Agent Sarah Okafor,Male,56,LOC002,Property Management,1
+AGT0049,Agent Ada Abdullahi,Male,37,LOC020,Residential,11
+AGT0050,Agent Michael Nwosu,Female,35,LOC025,Property Management,3
+AGT0051,Agent Esther Adeyemi,Male,26,LOC026,Residential,14
+AGT0052,Agent Sarah Eze,Male,26,LOC032,Commercial,7
+AGT0053,Agent David Williams,Female,53,LOC024,Residential,12
+AGT0054,Agent Amaka Mohammed,Male,46,LOC028,Commercial,9
+AGT0055,Agent Mary Ibrahim,Male,43,LOC014,Luxury,1
+AGT0056,Agent John Adeyemi,Female,40,LOC012,Land,1
+AGT0057,Agent Joseph Adebayo,Male,51,LOC003,Luxury,11
+AGT0058,Agent Amaka Bello,Female,43,LOC008,Land,11
+AGT0059,Agent Peter Okafor,Female,54,LOC005,Luxury,14
+AGT0060,Agent Daniel Ibrahim,Male,56,LOC009,Residential,5
+AGT0061,Agent Amaka Ogunleye,Female,47,LOC013,Residential,4
+AGT0062,Agent Amaka Nwosu,Male,34,LOC019,Residential,11
+AGT0063,Agent Joy Bello,Male,53,LOC013,Luxury,11
+AGT0064,Agent Amaka Williams,Female,39,LOC027,Luxury,11
+AGT0065,Agent Peter Ibrahim,Male,25,LOC015,Land,9
+AGT0066,Agent Peter Williams,Female,38,LOC031,Luxury,3
+AGT0067,Agent James Ibrahim,Male,54,LOC021,Property Management,15
+AGT0068,Agent John Johnson,Male,25,LOC002,Property Management,14
+AGT0069,Agent Victor Adeyemi,Female,38,LOC010,Land,4
+AGT0070,Agent Joy Adebayo,Male,39,LOC006,Luxury,6
+AGT0071,Agent Blessing Mohammed,Male,49,LOC008,Luxury,12
+AGT0072,Agent Esther Adebayo,Male,38,LOC002,Commercial,8
+AGT0073,Agent Amaka Bello,Female,26,LOC024,Property Management,3
+AGT0074,Agent Victor Ogunleye,Female,47,LOC011,Residential,8
+AGT0075,Agent Daniel Mohammed,Male,29,LOC002,Commercial,10
+AGT0076,Agent James Okonkwo,Male,53,LOC007,Land,11
+AGT0077,Agent Mary Adeyemi,Male,57,LOC026,Residential,4
+AGT0078,Agent Aisha Adeyemi,Female,40,LOC023,Residential,5
+AGT0079,Agent Sarah Adebayo,Male,48,LOC011,Land,3
+AGT0080,Agent Sarah Eze,Female,53,LOC002,Luxury,3
+AGT0081,Agent Esther Adeyemi,Female,33,LOC011,Commercial,6
+AGT0082,Agent Chioma Williams,Female,44,LOC013,Property Management,8
+AGT0083,Agent Blessing Adebayo,Female,28,LOC032,Commercial,11
+AGT0084,Agent John Okonkwo,Male,36,LOC017,Property Management,7
+AGT0085,Agent Joy Adeyemi,Male,32,LOC015,Land,10
+AGT0086,Agent Grace Ibrahim,Female,47,LOC032,Land,13
+AGT0087,Agent Victor Adeyemi,Female,56,LOC019,Commercial,8
+AGT0088,Agent Joy Adeyemi,Female,38,LOC019,Luxury,7
+AGT0089,Agent James Adeyemi,Female,41,LOC024,Property Management,4
+AGT0090,Agent Mary Adebayo,Male,36,LOC004,Residential,9
+AGT0091,Agent Joseph Williams,Male,32,LOC028,Property Management,9
+AGT0092,Agent Mary Bello,Female,45,LOC013,Luxury,10
+AGT0093,Agent Blessing Abdullahi,Female,56,LOC009,Land,5
+AGT0094,Agent Joseph Yusuf,Female,42,LOC014,Land,13
+AGT0095,Agent Michael Okafor,Male,31,LOC034,Commercial,8
+AGT0096,Agent Emmanuel Adebayo,Male,30,LOC034,Residential,4
+AGT0097,Agent Emmanuel Johnson,Female,33,LOC020,Land,5
+AGT0098,Agent David Okonkwo,Male,33,LOC027,Residential,8
+AGT0099,Agent Sarah Bello,Male,41,LOC032,Residential,8
+AGT0100,Agent Blessing Okafor,Male,47,LOC012,Luxury,1
+AGT0101,Agent Samuel Adebayo,Female,46,LOC013,Residential,2
+AGT0102,Agent James Bello,Male,46,LOC029,Land,11
+AGT0103,Agent Samuel Okonkwo,Male,26,LOC023,Luxury,15
+AGT0104,Agent Michael Eze,Female,37,LOC018,Residential,2
+AGT0105,Agent Daniel Ogunleye,Male,31,LOC029,Property Management,11
+AGT0106,Agent David Adebayo,Female,50,LOC011,Property Management,15
+AGT0107,Agent Daniel Eze,Male,45,LOC014,Commercial,1
+AGT0108,Agent Aisha Johnson,Female,39,LOC007,Residential,9
+AGT0109,Agent Ada Okonkwo,Female,45,LOC023,Land,5
+AGT0110,Agent Daniel Okonkwo,Male,30,LOC025,Luxury,1
+AGT0111,Agent Esther Bello,Female,55,LOC031,Land,5
+AGT0112,Agent Emmanuel Eze,Female,50,LOC025,Commercial,1
+AGT0113,Agent Grace Abdullahi,Male,25,LOC017,Luxury,13
+AGT0114,Agent David Johnson,Male,46,LOC020,Commercial,6
+AGT0115,Agent Amaka Yusuf,Male,43,LOC023,Land,12
+AGT0116,Agent John Abdullahi,Male,29,LOC033,Land,5
+AGT0117,Agent Daniel Okafor,Male,46,LOC034,Luxury,4
+AGT0118,Agent Grace Olawale,Male,36,LOC017,Commercial,6
+AGT0119,Agent Chioma Williams,Male,53,LOC021,Luxury,13
+AGT0120,Agent Joseph Okafor,Male,35,LOC012,Property Management,13
+AGT0121,Agent Blessing Adebayo,Male,57,LOC008,Property Management,9
+AGT0122,Agent Chioma Okafor,Female,38,LOC012,Property Management,13
+AGT0123,Agent James Olawale,Male,37,LOC022,Commercial,15
+AGT0124,Agent John Ogunleye,Female,32,LOC015,Residential,15
+AGT0125,Agent Ada Ibrahim,Male,57,LOC015,Property Management,11
+AGT0126,Agent Chioma Bello,Male,39,LOC007,Land,5
+AGT0127,Agent Joy Eze,Female,30,LOC010,Residential,9
+AGT0128,Agent Amaka Nwosu,Male,25,LOC002,Luxury,10
+AGT0129,Agent John Nwosu,Female,57,LOC007,Property Management,7
+AGT0130,Agent Sarah Okafor,Female,56,LOC032,Luxury,2
+AGT0131,Agent Victor Adebayo,Female,49,LOC002,Land,8
+AGT0132,Agent Amaka Adeyemi,Female,57,LOC016,Property Management,3
+AGT0133,Agent Sarah Olawale,Female,35,LOC031,Commercial,3
+AGT0134,Agent Ada Williams,Female,49,LOC016,Residential,12
+AGT0135,Agent Grace Johnson,Female,34,LOC027,Land,15
+AGT0136,Agent Blessing Yusuf,Female,40,LOC030,Property Management,10
+AGT0137,Agent Samuel Yusuf,Female,42,LOC012,Land,6
+AGT0138,Agent Peter Okonkwo,Female,36,LOC014,Commercial,10
+AGT0139,Agent Emmanuel Ibrahim,Female,52,LOC003,Commercial,9
+AGT0140,Agent Aisha Adeyemi,Male,33,LOC021,Land,14
+AGT0141,Agent Esther Olawale,Female,42,LOC007,Luxury,13
+AGT0142,Agent Michael Williams,Male,48,LOC020,Commercial,14
+AGT0143,Agent John Abdullahi,Female,43,LOC026,Property Management,14
+AGT0144,Agent Peter Okonkwo,Female,26,LOC025,Property Management,11
+AGT0145,Agent Michael Williams,Female,50,LOC003,Luxury,8
+AGT0146,Agent Michael Yusuf,Male,27,LOC031,Residential,15
+AGT0147,Agent Samuel Williams,Female,37,LOC012,Commercial,6
+AGT0148,Agent Blessing Johnson,Male,57,LOC029,Luxury,14
+AGT0149,Agent James Eze,Male,26,LOC003,Residential,13
+AGT0150,Agent James Adeyemi,Female,53,LOC013,Luxury,14
+AGT0151,Agent Michael Ibrahim,Female,40,LOC031,Residential,14
+AGT0152,Agent Blessing Johnson,Male,29,LOC027,Residential,11
+AGT0153,Agent Michael Adeyemi,Female,42,LOC030,Land,10
+AGT0154,Agent Samuel Okafor,Female,34,LOC014,Luxury,6
+AGT0155,Agent Sarah Mohammed,Female,38,LOC015,Luxury,2
+AGT0156,Agent Victor Adeyemi,Female,51,LOC021,Luxury,9
+AGT0157,Agent Blessing Nwosu,Female,37,LOC029,Commercial,5
+AGT0158,Agent Michael Williams,Male,26,LOC026,Property Management,3
+AGT0159,Agent Ada Adebayo,Male,37,LOC026,Land,5
+AGT0160,Agent Peter Eze,Male,57,LOC001,Property Management,12
+AGT0161,Agent Chioma Abdullahi,Female,44,LOC015,Property Management,13
+AGT0162,Agent James Okafor,Male,42,LOC020,Property Management,9
+AGT0163,Agent Mary Eze,Male,49,LOC026,Luxury,6
+AGT0164,Agent Blessing Okafor,Male,39,LOC017,Residential,2
+AGT0165,Agent Chioma Williams,Male,41,LOC009,Luxury,14
+AGT0166,Agent Victor Ogunleye,Male,53,LOC034,Commercial,1
+AGT0167,Agent Blessing Adeyemi,Female,56,LOC014,Luxury,8
+AGT0168,Agent Esther Okafor,Female,37,LOC014,Land,1
+AGT0169,Agent James Adeyemi,Female,45,LOC013,Residential,14
+AGT0170,Agent Chioma Adeyemi,Male,49,LOC029,Commercial,1
+AGT0171,Agent Joseph Yusuf,Male,48,LOC034,Residential,8
+AGT0172,Agent Victor Adebayo,Male,57,LOC015,Residential,8
+AGT0173,Agent Chioma Olawale,Male,52,LOC018,Property Management,3
+AGT0174,Agent Daniel Williams,Male,35,LOC026,Luxury,7
+AGT0175,Agent Joy Ogunleye,Female,34,LOC012,Land,11
+AGT0176,Agent James Mohammed,Female,25,LOC007,Commercial,5
+AGT0177,Agent Peter Abdullahi,Female,40,LOC009,Commercial,4
+AGT0178,Agent Joy Olawale,Male,44,LOC005,Luxury,12
+AGT0179,Agent Mary Abdullahi,Male,29,LOC012,Luxury,3
+AGT0180,Agent Chioma Mohammed,Male,54,LOC003,Commercial,7
+AGT0181,Agent Michael Ibrahim,Female,52,LOC032,Residential,1
+AGT0182,Agent Blessing Okafor,Male,51,LOC016,Property Management,7
+AGT0183,Agent Victor Adeyemi,Female,55,LOC034,Land,4
+AGT0184,Agent Esther Okafor,Male,31,LOC033,Land,11
+AGT0185,Agent Victor Yusuf,Male,28,LOC031,Commercial,3
+AGT0186,Agent Blessing Abdullahi,Female,46,LOC034,Property Management,13
+AGT0187,Agent Michael Okafor,Female,27,LOC002,Commercial,5
+AGT0188,Agent Amaka Adeyemi,Female,45,LOC031,Property Management,12
+AGT0189,Agent Michael Okonkwo,Male,41,LOC029,Property Management,13
+AGT0190,Agent Peter Yusuf,Female,57,LOC015,Residential,7
+AGT0191,Agent Ada Abdullahi,Male,50,LOC012,Land,14
+AGT0192,Agent Chioma Adeyemi,Female,31,LOC028,Property Management,13
+AGT0193,Agent Mary Ibrahim,Female,33,LOC016,Land,2
+AGT0194,Agent Amaka Mohammed,Male,25,LOC016,Commercial,11
+AGT0195,Agent David Eze,Male,46,LOC020,Property Management,9
+AGT0196,Agent Blessing Adeyemi,Male,56,LOC022,Land,11
+AGT0197,Agent Samuel Ibrahim,Male,34,LOC025,Land,1
+AGT0198,Agent Ada Okafor,Male,51,LOC018,Land,1
+AGT0199,Agent Joy Okafor,Male,36,LOC018,Residential,14
+AGT0200,Agent Joseph Mohammed,Male,34,LOC017,Luxury,12
+AGT0201,Agent Sarah Adeyemi,Male,45,LOC003,Property Management,11
+AGT0202,Agent James Olawale,Female,30,LOC009,Luxury,6
+AGT0203,Agent Ada Eze,Female,32,LOC033,Luxury,5
+AGT0204,Agent Esther Okonkwo,Male,30,LOC029,Property Management,15
+AGT0205,Agent Ada Ogunleye,Male,46,LOC031,Commercial,13
+AGT0206,Agent Joseph Olawale,Female,33,LOC030,Land,5
+AGT0207,Agent John Johnson,Female,56,LOC013,Property Management,8
+AGT0208,Agent Grace Williams,Male,34,LOC016,Land,1
+AGT0209,Agent Ada Yusuf,Male,47,LOC028,Luxury,4
+AGT0210,Agent Joy Bello,Male,37,LOC027,Property Management,6
+AGT0211,Agent Ada Bello,Male,39,LOC027,Land,15
+AGT0212,Agent Peter Williams,Male,56,LOC031,Luxury,13
+AGT0213,Agent Blessing Olawale,Male,37,LOC033,Luxury,9
+AGT0214,Agent Mary Ibrahim,Female,49,LOC031,Land,5
+AGT0215,Agent Joy Johnson,Female,28,LOC034,Luxury,6
+AGT0216,Agent Amaka Okonkwo,Female,39,LOC022,Property Management,5
+AGT0217,Agent Peter Ogunleye,Male,32,LOC033,Commercial,15
+AGT0218,Agent Sarah Bello,Female,34,LOC011,Commercial,5
+AGT0219,Agent Aisha Abdullahi,Female,41,LOC003,Luxury,5
+AGT0220,Agent Joseph Bello,Female,37,LOC021,Residential,5
+AGT0221,Agent Samuel Adebayo,Female,36,LOC032,Residential,9
+AGT0222,Agent Joseph Adeyemi,Female,52,LOC034,Commercial,2
+AGT0223,Agent Aisha Adebayo,Male,45,LOC026,Residential,9
+AGT0224,Agent John Ibrahim,Female,46,LOC027,Commercial,9
+AGT0225,Agent Samuel Yusuf,Female,26,LOC001,Commercial,14
+AGT0226,Agent Chioma Nwosu,Male,25,LOC020,Commercial,14
+AGT0227,Agent Joy Bello,Male,37,LOC011,Land,3
+AGT0228,Agent Aisha Abdullahi,Male,44,LOC033,Land,9
+AGT0229,Agent Grace Adebayo,Male,29,LOC001,Property Management,2
+AGT0230,Agent Blessing Olawale,Male,50,LOC030,Residential,5
+AGT0231,Agent Joy Nwosu,Male,53,LOC014,Residential,2
+AGT0232,Agent Peter Okonkwo,Female,33,LOC003,Commercial,6
+AGT0233,Agent Joy Olawale,Female,52,LOC019,Commercial,12
+AGT0234,Agent Mary Abdullahi,Male,36,LOC005,Land,5
+AGT0235,Agent Mary Eze,Female,42,LOC024,Luxury,7
+AGT0236,Agent Joy Bello,Female,27,LOC014,Commercial,8
+AGT0237,Agent Ada Adeyemi,Male,29,LOC032,Residential,8
+AGT0238,Agent Grace Ogunleye,Male,47,LOC022,Luxury,14
+AGT0239,Agent Joy Ibrahim,Female,37,LOC008,Residential,11
+AGT0240,Agent Amaka Ogunleye,Male,48,LOC002,Land,12
+AGT0241,Agent Esther Nwosu,Male,41,LOC027,Residential,6
+AGT0242,Agent Grace Ibrahim,Male,51,LOC029,Land,13
+AGT0243,Agent Esther Okafor,Male,53,LOC019,Luxury,12
+AGT0244,Agent Mary Ogunleye,Female,29,LOC006,Property Management,2
+AGT0245,Agent Michael Bello,Male,35,LOC015,Land,4
+AGT0246,Agent Aisha Eze,Female,46,LOC030,Luxury,1
+AGT0247,Agent Mary Bello,Female,40,LOC002,Land,2
+AGT0248,Agent Ada Ibrahim,Female,51,LOC012,Land,12
+AGT0249,Agent John Adebayo,Male,29,LOC016,Property Management,5
+AGT0250,Agent Ada Okonkwo,Female,46,LOC028,Property Management,13
+AGT0251,Agent Esther Ogunleye,Male,40,LOC008,Property Management,10
+AGT0252,Agent Sarah Olawale,Female,33,LOC034,Property Management,3
+AGT0253,Agent David Bello,Male,52,LOC019,Residential,15
+AGT0254,Agent James Ogunleye,Male,33,LOC020,Property Management,10
+AGT0255,Agent Sarah Bello,Female,30,LOC007,Commercial,8
+AGT0256,Agent Esther Adeyemi,Male,57,LOC029,Property Management,14
+AGT0257,Agent David Nwosu,Male,26,LOC011,Property Management,13
+AGT0258,Agent James Abdullahi,Male,34,LOC019,Luxury,9
+AGT0259,Agent James Adeyemi,Male,31,LOC006,Commercial,11
+AGT0260,Agent Emmanuel Nwosu,Female,27,LOC022,Land,5
+AGT0261,Agent Aisha Yusuf,Male,51,LOC003,Land,14
+AGT0262,Agent Samuel Adebayo,Female,54,LOC025,Property Management,2
+AGT0263,Agent Joy Okonkwo,Male,47,LOC004,Land,7
+AGT0264,Agent James Ogunleye,Female,41,LOC029,Property Management,15
+AGT0265,Agent James Eze,Male,31,LOC024,Residential,13
+AGT0266,Agent David Bello,Male,27,LOC016,Land,9
+AGT0267,Agent Joy Eze,Female,27,LOC025,Land,4
+AGT0268,Agent Aisha Adebayo,Male,32,LOC009,Commercial,10
+AGT0269,Agent Emmanuel Nwosu,Female,39,LOC031,Commercial,5
+AGT0270,Agent Sarah Adeyemi,Female,37,LOC031,Luxury,15
+AGT0271,Agent Grace Olawale,Female,36,LOC008,Commercial,3
+AGT0272,Agent John Nwosu,Female,32,LOC022,Luxury,10
+AGT0273,Agent John Abdullahi,Male,32,LOC018,Luxury,6
+AGT0274,Agent James Mohammed,Male,36,LOC025,Property Management,6
+AGT0275,Agent Sarah Ogunleye,Female,51,LOC008,Commercial,10
+AGT0276,Agent Esther Ogunleye,Female,42,LOC018,Property Management,3
+AGT0277,Agent Chioma Ogunleye,Female,29,LOC001,Property Management,1
+AGT0278,Agent Joy Mohammed,Female,34,LOC015,Property Management,3
+AGT0279,Agent Michael Bello,Male,25,LOC016,Luxury,6
+AGT0280,Agent Amaka Okafor,Female,41,LOC004,Luxury,3
+AGT0281,Agent Victor Bello,Female,33,LOC018,Commercial,7
+AGT0282,Agent Sarah Okafor,Female,29,LOC009,Luxury,9
+AGT0283,Agent Victor Bello,Female,35,LOC010,Land,14
+AGT0284,Agent Ada Ogunleye,Male,48,LOC004,Property Management,4
+AGT0285,Agent Grace Bello,Female,57,LOC011,Property Management,4
+AGT0286,Agent Joy Bello,Male,40,LOC030,Luxury,9
+AGT0287,Agent Michael Nwosu,Male,25,LOC008,Luxury,3
+AGT0288,Agent Esther Olawale,Male,48,LOC016,Land,3
+AGT0289,Agent Ada Okonkwo,Male,56,LOC015,Luxury,2
+AGT0290,Agent Blessing Mohammed,Male,49,LOC002,Property Management,11
+AGT0291,Agent Mary Mohammed,Female,27,LOC031,Land,7
+AGT0292,Agent John Abdullahi,Female,53,LOC023,Residential,8
+AGT0293,Agent Daniel Ibrahim,Male,49,LOC012,Luxury,12
+AGT0294,Agent Esther Eze,Female,48,LOC020,Land,5
+AGT0295,Agent Peter Adeyemi,Female,51,LOC031,Residential,10
+AGT0296,Agent Chioma Ogunleye,Male,36,LOC027,Land,2
+AGT0297,Agent Sarah Johnson,Female,32,LOC005,Land,2
+AGT0298,Agent Peter Olawale,Male,54,LOC026,Commercial,9
+AGT0299,Agent Ada Adeyemi,Male,49,LOC001,Commercial,14
+AGT0300,Agent Joseph Johnson,Female,26,LOC009,Luxury,1
